@@ -19,16 +19,16 @@
       {% unless no_link_title %}</a>{% endunless %}
     </h2>
     <div class="post-date">
-      {% assign category_start     = "카테고리 : "     | default:" in " %}
-      {% assign tag_start          = "  tag #"          | default:" - " %}
-      {% assign category_separator = site.data.strings.category_separator | default:" >> " %}
+      <!-- {% assign category_start     = "Category : "     | default:" in " %} -->
+      {% assign tag_start          = "tag #"          | default:" - " %}
+      <!-- {% assign category_separator = site.data.strings.category_separator | default:" >> " %} -->
       {% assign tag_separator      = " #"     | default:". "  %}
-      {% include components/tag-list.html tags=post.categories meta=site.featured_categories start_with=category_start separator=category_separator %}
+      <!-- {% include components/tag-list.html tags=post.categories meta=site.featured_categories start_with=category_start separator=category_separator %} -->
       {% include components/tag-list.html tags=post.tags meta=site.featured_tags start_with=tag_start separator=tag_separator %}
       <br>
-      <!--년월일-->
+      <!-- 년월일
       {% assign post_format = "%Y년 %m월 %d일 글" | default:"%Y %m %d" %}
-      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date:post_format }}</time>
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date:post_format }}</time> -->
     </div>
     {% assign alt = false %}
     {% unless hide_image %}{% if post.image %}
@@ -42,7 +42,7 @@
 
     {% include components/message.html text=post.description hide=hide_description alt=alt %}
     <!--상단버튼-->
-    {% include page-button.html %}
+    <!-- {% include page-button.html %} -->
     <!-- 조회수 버튼 -->
       <!-- <div style="text-align:right; text-align: center">
           <a href="https://hits.seeyoufarm.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}"

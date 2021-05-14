@@ -9,11 +9,7 @@ author1:
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   # about 페이지; 프로필 사진 옆 문구
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+    Interested in `Machine Learning` and `Deep Learning`
   # Please check my [CV](/public.CV.pdf) to find out for more about me !
 
   # This photo will be used in the about section
