@@ -8,7 +8,7 @@
 #
 # Fill out the information below:
 
-name = "my-hydejack-site" # Change name
+name = "sangble" # Change name
 type = "webpack"
 account_id = "{{ ACCOUNT_ID }}" # Replace with your Cloudflare account id
 workers_dev = true # Change when using custom domain
