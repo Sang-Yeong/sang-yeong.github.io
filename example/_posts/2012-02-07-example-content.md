@@ -4,6 +4,7 @@ title: Example Content
 description: >
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 sitemap: false
+hide_last_modified: true
 ---
 
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
@@ -87,11 +88,11 @@ Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo r
 
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
-![800x400](https://placehold.it/800x400 "Large example image")
+![800x400](https://via.placeholder.com/800x400 "Large example image")
 
-![400x200](https://placehold.it/400x200 "Medium example image")
+![400x200](https://via.placeholder.com/400x200 "Medium example image")
 
-![200x200](https://placehold.it/200x200 "Small example image")
+![200x200](https://via.placeholder.com/200x200 "Small example image")
 
 ## Tables
 
