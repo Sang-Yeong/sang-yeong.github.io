@@ -1,10 +1,10 @@
 .dl-table {
   a {
     @supports ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
-      text-underline-offset: .8rem;
+      text-underline-offset: .7rem;
     }
     @supports not ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
-      padding-bottom: .45rem;
+      padding-bottom: .3rem;
     }
   }
 

@@ -72,12 +72,8 @@ If you save a blurred image as JPG, it will also drastically reduce its file siz
 
 The `accent_image` property also accepts the special value `none` which will remove the default image.
 
-If your sidebar image contains bright colors, the white text can be difficult to read. In this case, consider setting
-`invert_sidebar: true` in the front matter to invert the text colors in the sidebar. 
-Use [front matter defaults][fmd] to enable this on all pages (see below).
-
-Note that these values can be overwritten on a per-page basis, i.e. you can create a unique look for each page.
-You can also apply a certain look to all posts in a category via [front matter defaults][fmd], e.g.:
+Note that these values can be overwritte on a per-page basis, i.e. you can create a unique look for each page.
+You can also apply a certain look all posts in a category via [front matter defaults][fmd], e.g.:
 
 ```yml
 # file: `_config.yml`
@@ -344,7 +340,7 @@ author:
   social:
     email:    mail@qwtel.com
     rss:      {{ site.url }}{{ site.baseurl }}/feed.xml # make sure you provide an absolute URL
-    download: https://github.com/hydecorp/hydejack/archive/v9.1.6.zip
+    download: https://github.com/hydecorp/hydejack/archive/v9.0.5.zip
 ~~~
 
 
@@ -465,10 +461,10 @@ There are a couple of things to know about this gem:
 *  It is not supported on GitHub Pages. 
    You have to build the site on your machine before uploading to GitHub,
    or use a more permissive cloud building tool such as Netlify. 
+   See [the section below](#mathjax) for an alternative.
 *  You need some kind of JavaScript runtime on your machine.
    Usually installing [NodeJS](https://nodejs.org/en/download/) will suffice. 
-   Alternatively, adding `gem "duktape"` will also do.
-   For more, see <https://github.com/kramdown/math-katex#documentation>
+   For details, see <https://github.com/kramdown/math-katex#documentation>
 
 Before you add math content, remember to run `bundle install` and restart Jekyll.
 
@@ -476,19 +472,7 @@ Before you add math content, remember to run `bundle install` and restart Jekyll
 [katex]: https://khan.github.io/KaTeX/
 [mathjax]: https://www.mathjax.org/
 
-
-## Adding custom Favicons and App Icons
-### Changing the Favicon
-By default, Hydejack will use the Favicon from `/assets/icons/favicon.ico` and Apple Touch Icon from `/assets/icons/icon-192x192.png`.
-You can either override these files, or override the path in the config file via `favicon` and `app_touch_icon` keys:
-
-```yml
-# file: "_config.yml"
-favicon: /favicon.ico
-apple_touch_icon: /assets/img/logo.png
-```
-
-### Changing the App Icons
+## Adding custom favicons and app icons
 By default, Hydejack includes its own favicon, as well as app icons in 8 different resolutions.
 
 | Name               | Resolution |
