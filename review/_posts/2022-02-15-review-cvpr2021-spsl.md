@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (cvpr2021) Spatial-Phase Shallow Learning_Rethinking Face Forgery Detection in Frequency Domain
+title: (cvpr2021) Spatial-Phase Shallow Learning _ Rethinking Face Forgery Detection in Frequency Domain
 description: >
   spatial domain, frequency domain, amplitude, phase, up-sampling  
 image: /assets/img/review/01_spsl_main.png
@@ -8,9 +8,8 @@ sitemap: false
 ---
 
 
-```
-본 논문은 generative모델에서 forged image가 만들어질 때의 필수 과정인 up-sampling 흔적을 frequency domain에서의 phase spectrum을 통해 찾아낼 수 있음을 증명한다. 또한 high-level semantic information을 억제하고 local 부분에 집중 할 수 있도록 shallow learning 방법을 사용하는 SPSL method를 주장한다.
-```
+> 본 논문은 generative모델에서 forged image가 만들어질 때의 필수 과정인 up-sampling 흔적을 frequency domain에서의 phase spectrum을 통해 찾아낼 수 있음을 증명한다. 또한 high-level semantic information을 억제하고 local 부분에 집중 할 수 있도록 shallow learning 방법을 사용하는 SPSL method를 주장한다.
+
 
 # Contributions
 - Amplitude vs. Phase
