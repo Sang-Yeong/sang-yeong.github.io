@@ -6,11 +6,11 @@ layout: list
 title: Autonomous Driving
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: autonomous_driving
+slug: autodrive
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  자율주행 기본 개념 및 연구
+  자율주행 개념 및 트렌드
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true

@@ -20,16 +20,16 @@ url:                   https://sang-yeong.github.io
 lang:                  ko-KR, en-us
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 SangBle
+title:                 Sangyeong's Blog
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Multimedia Forensics, Computer Vision, 그리고 Deep Learning에 대한 공부 내용을 기록한 블로그입니다.
 
 # A shorter description for the sidebar.
-tagline:               Multimedia Forensics, Computer Vision, and Deep Learning  ...
+# Multimedia Forensics, Computer Vision, and Deep Learning  ...
+tagline:               
 
 
 # A list of keywords for your blog
@@ -50,22 +50,16 @@ author:
 
 # Add links to the sidebar.
 menu:
+  - title:             About
+    url:               /about/
   - title:             Autonomous Driving
-    url:               /autonomous_driving/
-  - title:             Study
-    url:               /study/
-    submenu:
-      - title:  ImageProcessing
-        url:      /imageprocessing/
-
+    url:               /autodrive/
   - title:             Review
     url:               /review/
   - title:             Example
     url:               /example/
   - title:             Documentation
     url:               /docs/
-  - title:             About
-    url:               /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
