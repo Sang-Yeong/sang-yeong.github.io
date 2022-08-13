@@ -54,8 +54,8 @@ menu:
     url:               /about/
   - title:             Autonomous Driving
     url:               /autodrive/
-  - title:             Review
-    url:               /review/
+  - title:             Resampling Detection
+    url:               /resample/
   - title:             Example
     url:               /example/
   - title:             Documentation

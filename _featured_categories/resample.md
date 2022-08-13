@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Review
+title: Resampling Detection
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: review
+slug: resample
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  논문 리뷰
+  [2022 ACM MM] Transformer in Spectral Domain for Estimating Image Geometric Transformation 논문 작성 과정
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
