@@ -52,6 +52,8 @@ author:
 menu:
   - title:             About
     url:               /about/
+  - title:             Adversarial Attack
+    url:               /adv_attack/
   - title:             Autonomous Driving
     url:               /autodrive/
   - title:             Resampling Detection
