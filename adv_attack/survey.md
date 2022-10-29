@@ -13,21 +13,21 @@ sitemap: false
 
 ## Overview
 ### Countermeasures for Adversarial examples
-    1. reactive: deep neural network built → detect adversarial examples
-        - adversarial detecting
-        - input reconstruction
-        - network verification
-    2. proactive: 더 robust(강력)하게 deep neural network built → generate adversarial examples
-        - network distillation
-        - adversarial (re)training
-        - classifier robustifying
-    3. ensembling method
+1. reactive: deep neural network built → detect adversarial examples
+    - adversarial detecting
+    - input reconstruction
+    - network verification
+2. proactive: 더 robust(강력)하게 deep neural network built → generate adversarial examples
+    - network distillation
+    - adversarial (re)training
+    - classifier robustifying
+3. ensembling method
 
 
 
 ## Network Distillation 
 
-<img src='../assets/img/adv_attack/survey-block_transfer.jpg'>
+<img src='/assets/img/adv_attack/survey-block_transfer.jpg'>
 
 `[1]`
 - knowledge distillation: 미리 잘 학습된 큰 네트워크의 지식을 실제로 사용하고자 하는 작은 네트워크에 전달하는 것 → 작은 모델로 더 큰 모델만큼의 성능을 얻을 수 있음.
@@ -163,7 +163,7 @@ Feature Squeezing → model hardening technique (== input reconstruction)
 
 ## Blocking the transferability
 
-<img src='../assets/img/adv_attack/survey-distillation.jpg'>
+<img src='/assets/img/adv_attack/survey-distillation.jpg'>
 
 - adversarial 사례의 transferability 가능성 차단.
     - nn의 transferability → 한 분류기에서 생성된 AE가 다른 분류기에서 동일한 mistake를 수행할 것으로 예상됨.
