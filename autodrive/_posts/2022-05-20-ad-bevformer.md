@@ -15,6 +15,9 @@ sitemap: false
 
 ## Abstract
 
+1. toc 
+{:toc .large-only}
+
 - 미리 정의된 격자 모양의 BEV 쿼리를 통해 공간 및 시간 공간과 상호 작용하여 공간 및 시간 정보를 모두 활용
 - spatial information를 집계하기 위해 각 BEV 쿼리가 카메라 뷰 전반에 걸쳐 관심 영역에서 공간 특징을 추출하는 spatial cross-attention를 설계
 - temporal information; history BEV information 를 반복적으로 fusion함
@@ -161,4 +164,4 @@ sitemap: false
 
 해당 포스트는 아래를 참고하여 작성되었습니다.
 
-- <https://arxiv.org/abs/2203.17270>
+- [BEVFormer] <https://arxiv.org/abs/2203.17270>

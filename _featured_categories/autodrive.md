@@ -10,7 +10,7 @@ slug: autodrive
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  자율주행 개념 및 트렌드
+  자율주행 개념 및 트렌드 조사
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
