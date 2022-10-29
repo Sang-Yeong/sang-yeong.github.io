@@ -1,16 +1,13 @@
 ---
-layout: post
+layout: page
 title: Related Work
 description: >
-  관련연구 방법론
-image: /assets/img/resample/0919-main.png
+  관련연구를 통해 다양한 방법론들을 분석한다.
 sitemap: false
 ---
 
-# Related Work
-
-> 관련연구를 통해 다양한 방법론들을 분석한다.
-
+1. toc 
+{:toc .large-only}
 
 ## ManTra-Net: Manipulation Tracing Network for Detection and Localization of Image Forgeries With Anomalous Features
 > Wu, Yue, Wael AbdAlmageed, and Premkumar Natarajan. "Mantra-net: Manipulation tracing network for detection and localization of image forgeries with anomalous features." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.
@@ -33,7 +30,7 @@ sitemap: false
 
 ### ManTra-Net 개요
 
-<img src='/assets/img/resample/0919-mantra_archi.png'>
+<img src='/assets/img/resample/0919-mantra_archi.png' height='30'>
 
 - 2개의 sub-networks로 구성
 	- unified(통합된) feature representation을 생성하는 the image manipulation-trace feature extractor
@@ -54,4 +51,4 @@ sitemap: false
 
 해당 포스트는 아래를 참고하여 작성되었습니다.
 
-- ManTra-Net: <https://openaccess.thecvf.com/content_CVPR_2019/html/Wu_ManTra-Net_Manipulation_Tracing_Network_for_Detection_and_Localization_of_Image_CVPR_2019_paper.html>
+- [ManTra-Net] <https://openaccess.thecvf.com/content_CVPR_2019/html/Wu_ManTra-Net_Manipulation_Tracing_Network_for_Detection_and_Localization_of_Image_CVPR_2019_paper.html>

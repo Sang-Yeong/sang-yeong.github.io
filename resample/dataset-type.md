@@ -1,15 +1,13 @@
 ---
-layout: post
-title: Dataset-종류
+layout: page
+title: Dataset 조사
 description: >
-  선행연구에서 사용한 데이터셋 살펴보기
-image: /assets/img/resample/0810-dataset-main.png
+  선행연구에서 사용한 데이터셋 중 8가지를 뽑아서 분석한다. 멀티미디어 포렌식에서 주로 다루는 데이터셋을 살펴볼 수 있다.
 sitemap: false
 ---
 
-# Dataset-선행연구에서 사용한 Dataset 분석하기
-
-> 선행연구에서 사용한 데이터셋 중 8가지를 뽑아서 분석한다. 멀티미디어 포렌식에서 주로 다루는 데이터셋을 살펴볼 수 있다.
+1. toc 
+{:toc .large-only}
 
 ## 1. Dresden Image Database
 (현재 다운로드 불가능)

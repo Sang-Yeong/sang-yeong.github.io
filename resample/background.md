@@ -1,15 +1,13 @@
 ---
-layout: post
+layout: page
 title: Background-Handcrafted Methods
 description: >
-  Background 조사 및 공부
-image: /assets/img/resample/0726-method-main.png
+  Resampling Detection을 위한 hand-crafted methods 조사
 sitemap: false
 ---
 
-# Background-Handcrafted Methods
-
-> Resampling Detection을 위한 hand-crafted methods 조사
+1. toc 
+{:toc .large-only}
 
 ## Exposing digital forgeries by detecting traces of resampling
 > Popescu, Alin C., and Hany Farid. "Exposing digital forgeries by detecting traces of resampling." IEEE Transactions on signal processing 53.2 (2005): 758-767.
@@ -130,6 +128,12 @@ $$
 {:.figcaption}
 
 
+
+Continue with [Related Work](related.md){:.heading.flip-title}
+{:.read-more}
+
+
+
 <br>
 위 논문을 기반으로 resampling detector를 구현하였습니다.
 
@@ -141,5 +145,5 @@ $$
 
 해당 포스트는 아래를 참고하여 작성되었습니다.
 
-- <https://ieeexplore.ieee.org/abstract/document/1381775?casa_token=QdLU6wNrJ24AAAAA:x21EOwQI7iHclJVESCewMdDz_AI3UnlkQ4YmLksXI0A62FqK5E2NyDY1feW5JT34JHg-f4wFVi541g>
-- <https://ieeexplore.ieee.org/abstract/document/4540058?casa_token=n_10cFQvGjYAAAAA:0jV_TFCZEGKpz20mFethkWSpv6suhYT1s__d6cYsjyR86JH_2c6pw6ggpxp81tzfU1g4tPYvgZ0pLA>
+- [Exposing digital forgeries by detecting traces of resampling] <https://ieeexplore.ieee.org/abstract/document/1381775?casa_token=QdLU6wNrJ24AAAAA:x21EOwQI7iHclJVESCewMdDz_AI3UnlkQ4YmLksXI0A62FqK5E2NyDY1feW5JT34JHg-f4wFVi541g>
+- [Blind Authentication Using Periodic Properties of Interpolation] <https://ieeexplore.ieee.org/abstract/document/4540058?casa_token=n_10cFQvGjYAAAAA:0jV_TFCZEGKpz20mFethkWSpv6suhYT1s__d6cYsjyR86JH_2c6pw6ggpxp81tzfU1g4tPYvgZ0pLA>
