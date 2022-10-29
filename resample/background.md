@@ -129,17 +129,16 @@ $$
 
 
 
-Continue with [Related Work](related.md){:.heading.flip-title}
-{:.read-more}
-
-
-
 <br>
 위 논문을 기반으로 resampling detector를 구현하였습니다.
 
 <https://github.com/Sang-Yeong/image-forgery-detection>
 
 <br>
+
+
+Continue with [Related Work](related.md){:.heading.flip-title}
+{:.read-more}
 
 ---
 

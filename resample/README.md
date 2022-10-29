@@ -2,8 +2,7 @@
 layout: page
 title: Resampling Detection
 description: >
-  [2022 ACM MM] Transformer in Spectral Domain for Estimating Image Geometric Transformation
-hide_description: true
+  Choi, M., **<U>Lee, S.</U>**, Jung, H., & Hou, J. U. (2022, October). Transformers in Spectral Domain for Estimating Image Geometric Transformation. In Proceedings of the 30th ACM International Conference on Multimedia (pp. 6860-6867).
 sitemap: false
 permalink: /resample/
 ---
@@ -19,7 +18,7 @@ ACM Multimedia 2022 에 게재된 논문 소개 및 작성 과정을 작성한 �
 
 ### 1. Problem Statement and Visualization
 
-<img src='../assets/img/resample/readme-problem.JPG' height='15'>
+<img src='../assets/img/resample/readme-problem.JPG' width='600'>
 
 디지털 이미지는 전문가가 아닌 일반 사람들도 누구나 쉽게 조작이 가능하다. 따라서 이런 조작을 탐지하는 것은 디지털 포렌식 분야에서 중요한 문제이다. 본 논문은 다양한 이미지 조작 중에서 이미지 크기변환(scaling)과 회전(rotation)과 같은 **기하학적 변환(geometric transformation)**을 주로 다룰 것이다.
 
@@ -30,7 +29,7 @@ ACM Multimedia 2022 에 게재된 논문 소개 및 작성 과정을 작성한 �
 
 ### 2. Methodology
 
-<img src='../assets/img/resample/readme-method.JPG' height='30'>
+<img src='../assets/img/resample/readme-method.JPG'>
 
 제안하는 모델은 총 4개의 모듈로 구성된다.
 
@@ -41,17 +40,17 @@ ACM Multimedia 2022 에 게재된 논문 소개 및 작성 과정을 작성한 �
 
 ### 3. Results
 
-<img src='../assets/img/resample/readme-results.JPG' height='30'>
+<img src='../assets/img/resample/readme-results.JPG'>
 
-왼쪽부터 차례로 각 레이어에 따른 시각화 결과와 Scalnig, rotation factor에 대한 confusion matrix 결과이다.
+왼쪽부터 차례로 각 레이어에 따른 시각화 결과와 Scaling, rotation factor에 대한 confusion matrix 결과이다.
 
 
 ## 논문 작성 과정
-* [background]{:.heading.flip-title} --- 논문의 background 설명 및 관련 논문 소개
-* [related]{:.heading.flip-title} --- 논문 관련연구 소개
-* [dataset]{:.heading.flip-title} --- 이미지 포렌식에서 사용하는 데이터셋 소개
+* [Background]{:.heading.flip-title} --- 논문의 background 설명 및 관련 논문 소개
+* [Related Work]{:.heading.flip-title} --- 논문 관련연구 소개
+* [Dataset]{:.heading.flip-title} --- 이미지 포렌식에서 사용하는 데이터셋 소개
 {:.related-posts.faded}
 
-[background]: background.md
-[related]: related.md
-[dataset]: dataset-type.md
+[Background]: background.md
+[Related Work]: related.md
+[Dataset]: dataset-type.md
