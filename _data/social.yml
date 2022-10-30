@@ -6,6 +6,9 @@ email:
 amazon:
   name: Amazon
   icon: icon-amazon
+# google:
+#   name: Google
+#   icon: '/assets/icons/googlescholar.ico'
 google:
   name: Google
   icon: icon-google
