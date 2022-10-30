@@ -10,9 +10,9 @@ hide_description: true
 1. toc 
 {:toc .large-only}
 
-## Education 
+## Education
 ---
-B.S in Division of Software
+:mortar_board: B.S in Division of Software
 - Hallym University, Chuncheon, South Korea
 - Cumulative GPA: 4.34 / 4.5 (4.5 / 4.5)
 - 2018.03 - 2023.02
