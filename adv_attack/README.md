@@ -24,6 +24,7 @@ Goodfellow et al. "Explaining and harnessing adversarial examples."
 ## Adversarial Attack 방어기법
 * [Survey]{:.heading.flip-title} --- adversarial attack 방어기법에 대한 논문 서베이
 * [Robust Superpixel-Guided Attentional Adversarial Attack](/assets/ppt/adv_attack/Robust_Superpixel-Guided_Attentional_Adversarial_Attack.pdf) --- 관심있게 읽었던 논문 발표 자료
+
 {:.related-posts.faded}
 
 
