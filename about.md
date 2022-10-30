@@ -97,3 +97,11 @@ Transformer Based Electronic Appratus For Estimating Image Transformation, and C
 - 가톨릭대학교 인천성모병원, 인공지능 기반의 위장관 출혈 중증도 예측 연구 (2022.04 - present)
 - 한림대학교, 인공지능 학습용 데이터 구축 사업 수행, 가짜 동영상 (Deepfake)탐지의 보안성 향상을 위한 모델 데이터베이스 구축 (2020.10 - 2020.12)
 - University of California, Irvine (UCI), Developing and Testing an Extension of Google Assistant that Supports Blind Users’ Work Productivity (2019.06 - 2019.12)
+
+### Personal Projects
+- 이미지 기하학적 변조 보안 연구 (2021.07-2022.04) [[git]](https://github.com/Sang-Yeong/image-forgery-detection)
+- 북극 해빙예측 AI 프로젝트 (2021.05 - 2021.06) [[dacon]](https://dacon.io/competitions/official/235731/overview/description)
+- 지문인식 AI 프로젝트 (2020.11 - 2020.12) [livdet 2021]
+- Adversarial Attack 방어기법 연구 (2020.08 - 2021.05)
+- 딥페이크 변조 영상 탐지 프로젝트 (2020.10 - 2020.11) [[dacon]](https://dacon.io/competitions/official/235655/overview/description)
+- 스케줄 매칭을 위한 앱 개발 프로젝트 (2018.06-2018.11) [[git]](https://github.com/Sang-Yeong/Sometime)
