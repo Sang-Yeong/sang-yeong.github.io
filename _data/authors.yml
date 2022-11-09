@@ -8,12 +8,10 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hello! I am a Bachelor's student in the Division of Software at Hallym University, 
-    and studying under the  supervision of Professor [Jong-Uk Hou](https://sites.google.com/view/juhouhallym/professor). 
-    My main interests are multimedia forensics, computer vision, and deep learning.
+    Hello! My name is Sangyeong Lee, a student majoring in B.S Software Engineering at Hallym University.
+    I am currently conducting research in the MMC lab under the guidance of Professor [Jong-Uk Hou](https://sites.google.com/view/juhouhallym/professor).
+    My research interests are focused on multimedia forensics, computer vision, and deep learning.
     
-    
-
   # This photo will be used in the about section
   picture:
     path:            /assets/img/me.jpg

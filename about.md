@@ -15,7 +15,7 @@ hide_description: true
 :mortar_board: B.S in Division of Software
 - Hallym University, Chuncheon, South Korea
 - Cumulative GPA: 4.34 / 4.5 (4.5 / 4.5)
-- 2018.03 - 2023.02
+- 2018.03 - 2023.02 (Expected)
 
 
 
@@ -63,6 +63,7 @@ Transformer Based Electronic Appratus For Estimating Image Transformation, and C
 ## Research Experiences
 ---
 - Research Student at MMC Lab, Hallym University, South Korea (2020.07 - present)
+- Research Student at INsite, University of California, Irvine (UCI), USA (2019.06 - 2019.12)
 
 
 
