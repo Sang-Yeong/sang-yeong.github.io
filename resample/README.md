@@ -46,9 +46,12 @@ ACM Multimedia 2022 에 게재된 논문 소개 및 작성 과정을 작성한 �
 
 
 ## 논문 작성 과정
+
 * [Background]{:.heading.flip-title} --- 논문의 background 설명 및 관련 논문 소개
 * [Related Work]{:.heading.flip-title} --- 논문 관련연구 소개
 * [Dataset]{:.heading.flip-title} --- 이미지 포렌식에서 사용하는 데이터셋 소개
+
+
 {:.related-posts.faded}
 
 [Background]: background.md
