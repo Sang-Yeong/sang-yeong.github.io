@@ -56,6 +56,8 @@ menu:
     url:               /adv_attack/
   - title:             Autonomous Driving
     url:               /autodrive/
+  - title:             DeepFakes
+    url:               /deepfakes/
   - title:             Resampling Detection
     url:               /resample/
 
