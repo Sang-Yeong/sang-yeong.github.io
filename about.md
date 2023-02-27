@@ -12,10 +12,11 @@ hide_description: true
 
 ## Education
 ---
-:mortar_board: B.S in Division of Software
-- Hallym University, Chuncheon, South Korea
-- Cumulative GPA: 4.34 / 4.5 (4.5 / 4.5)
-- 2018.03 - 2023.02 (Expected)
+:mortar_board: Bachelor of Science:
+- Hallym University, Chuncheon, South Korea (2018.03-2023.02)
+- Major in Computer Engineering
+- Cumulative GPA: 4.34/4.5 (4.5/4.5)
+- graduated with highest honor (1/72)
 
 
 
@@ -46,7 +47,7 @@ IEEE Access 2022 [[pdf]](https://ieeexplore.ieee.org/abstract/document/9802100)
 
 ## Publications (Domestic)
 ---
-- Improving the Robustness of Deepfake Detection Models Against Adversarial Attacks (ACK 2022 게재승인)
+- Improving the Robustness of Deepfake Detection Models Against Adversarial Attacks (ACK 2022)
 **<U>Sangyeong Lee</U>**, Jong-Uk Hou*
 
 
@@ -54,15 +55,18 @@ IEEE Access 2022 [[pdf]](https://ieeexplore.ieee.org/abstract/document/9802100)
 
 ## Patents
 ---
-- 발명 명칭: 이미지의 변환을 추정하는 트랜스포머 기반의 전자 장치, 및 그 제어 방법 \\
-Transformer Based Electronic Appratus For Estimating Image Transformation, and Control Method Thereof (출원 진행중)
+- **[10-2022-0151336] 이미지의 변환을 추정하는 트랜스포머 기반의 전자 장치, 및 그 제어 방법** \\
+TRANSFORMER BASED ELECTRONIC APPRATUS FOR ESTIMATING IMAGE TRANSFORMATION, AND CONTROL METHOD THEREOF (출원등록, 20221114)
+- 
+**[10-2023-0018803] 딥페이크 탐지 모델의 적대적 공격 방어를 위한 학습을 수행하는 전자 장치, 전자 장치의 제어 방법, 및 컴퓨터 프로그램** \\
+ELECTRONIC DEVICE PERFORMING LEARNING FOR ADVERSARIAL ATTACK DEFENSE OF DEEPFAKE DETECTION MODEL, CONTROL METHOD OF ELECTRONIC DEVICE, AND COMPUTER PROGRAM (출원 진행중)
 
 
 
 
 ## Research Experiences
 ---
-- Research Student at MMC Lab, Hallym University, South Korea (2020.07 - present)
+- Research Student at MMC Lab, Hallym University, South Korea (2020.07 - 2023.02)
 - Research Student at INsite, University of California, Irvine (UCI), USA (2019.06 - 2019.12)
 
 
@@ -70,6 +74,7 @@ Transformer Based Electronic Appratus For Estimating Image Transformation, and C
 
 ## Awards and Honors
 ---
+- 2023 한림대학교 학위수여식 총장상 (수석졸업)
 - 2022 Annual Conference of KIPS 2022 (ACK 2022) 학부생논문경진대회 (은상)
 - 2021 산업통상자원부 제19회 임베디드 소프트웨어 경진대회 자유공모 (임베디드 SW System 산업협회 회장상)
 - 2021 한림대학교 1학기 캡스톤디자인 경연대회 (금상)
@@ -95,7 +100,7 @@ Transformer Based Electronic Appratus For Estimating Image Transformation, and C
 
 ## Projects
 ---
-- 가톨릭대학교 인천성모병원, 인공지능 기반의 위장관 출혈 중증도 예측 연구 (2022.04 - present)
+- 가톨릭대학교 인천성모병원, 인공지능 기반의 위장관 출혈 중증도 예측 연구 (2022.04 - 2023.02)
 - 한림대학교, 인공지능 학습용 데이터 구축 사업 수행, 가짜 동영상 (Deepfake)탐지의 보안성 향상을 위한 모델 데이터베이스 구축 (2020.10 - 2020.12)
 - University of California, Irvine (UCI), Developing and Testing an Extension of Google Assistant that Supports Blind Users’ Work Productivity (2019.06 - 2019.12)
 
